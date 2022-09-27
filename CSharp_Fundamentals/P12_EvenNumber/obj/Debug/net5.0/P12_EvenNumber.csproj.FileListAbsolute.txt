@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\bin\Debug\net5.0\P12_EvenNumber.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\bin\Debug\net5.0\P12_EvenNumber.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\bin\Debug\net5.0\P12_EvenNumber.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\bin\Debug\net5.0\P12_EvenNumber.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\bin\Debug\net5.0\P12_EvenNumber.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\bin\Debug\net5.0\ref\P12_EvenNumber.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\bin\Debug\net5.0\P12_EvenNumber.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\P12_EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\P12_EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\P12_EvenNumber.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\P12_EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\P12_EvenNumber.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\ref\P12_EvenNumber.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\P12_EvenNumber.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P12_EvenNumber\obj\Debug\net5.0\P12_EvenNumber.genruntimeconfig.cache

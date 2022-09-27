@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\bin\Debug\net5.0\P07_ConcatNames.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\bin\Debug\net5.0\P07_ConcatNames.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\bin\Debug\net5.0\P07_ConcatNames.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\bin\Debug\net5.0\P07_ConcatNames.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\bin\Debug\net5.0\P07_ConcatNames.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\bin\Debug\net5.0\ref\P07_ConcatNames.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\bin\Debug\net5.0\P07_ConcatNames.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\P07_ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\P07_ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\P07_ConcatNames.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\P07_ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\P07_ConcatNames.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\ref\P07_ConcatNames.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\P07_ConcatNames.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_ConcatNames\obj\Debug\net5.0\P07_ConcatNames.genruntimeconfig.cache

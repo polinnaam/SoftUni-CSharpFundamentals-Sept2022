@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\bin\Debug\net5.0\P01_ConvertMetersToKilometers.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\bin\Debug\net5.0\P01_ConvertMetersToKilometers.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\bin\Debug\net5.0\P01_ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\bin\Debug\net5.0\P01_ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\bin\Debug\net5.0\P01_ConvertMetersToKilometers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\bin\Debug\net5.0\ref\P01_ConvertMetersToKilometers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\bin\Debug\net5.0\P01_ConvertMetersToKilometers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\ref\P01_ConvertMetersToKilometers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P01_ConvertMetersToKilometers\obj\Debug\net5.0\P01_ConvertMetersToKilometers.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\bin\Debug\net5.0\P03_ExactSumOfRealNumbers.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\bin\Debug\net5.0\P03_ExactSumOfRealNumbers.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\bin\Debug\net5.0\P03_ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\bin\Debug\net5.0\P03_ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\bin\Debug\net5.0\P03_ExactSumOfRealNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\bin\Debug\net5.0\ref\P03_ExactSumOfRealNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\bin\Debug\net5.0\P03_ExactSumOfRealNumbers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\P03_ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\P03_ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\P03_ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\P03_ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\P03_ExactSumOfRealNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\ref\P03_ExactSumOfRealNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\P03_ExactSumOfRealNumbers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_ExactSumOfRealNumbers\obj\Debug\net5.0\P03_ExactSumOfRealNumbers.genruntimeconfig.cache

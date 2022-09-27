@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\bin\Debug\net5.0\P08_TownInfo.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\bin\Debug\net5.0\P08_TownInfo.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\bin\Debug\net5.0\P08_TownInfo.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\bin\Debug\net5.0\P08_TownInfo.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\bin\Debug\net5.0\P08_TownInfo.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\bin\Debug\net5.0\ref\P08_TownInfo.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\bin\Debug\net5.0\P08_TownInfo.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\P08_TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\P08_TownInfo.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\P08_TownInfo.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\P08_TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\P08_TownInfo.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\ref\P08_TownInfo.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\P08_TownInfo.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_TownInfo\obj\Debug\net5.0\P08_TownInfo.genruntimeconfig.cache

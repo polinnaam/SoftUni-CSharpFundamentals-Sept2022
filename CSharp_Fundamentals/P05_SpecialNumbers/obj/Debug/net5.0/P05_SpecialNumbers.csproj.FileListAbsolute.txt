@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\bin\Debug\net5.0\ref\P05_SpecialNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\bin\Debug\net5.0\P05_SpecialNumbers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\ref\P05_SpecialNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.genruntimeconfig.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_SpecialNumbers\obj\Debug\net5.0\P05_SpecialNumbers.csproj.AssemblyReference.cache

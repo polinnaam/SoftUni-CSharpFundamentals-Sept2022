@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\P10_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\P10_MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\P10_MultiplicationTable.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\P10_MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\bin\Debug\net5.0\P10_MultiplicationTable.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\bin\Debug\net5.0\P10_MultiplicationTable.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\bin\Debug\net5.0\P10_MultiplicationTable.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\bin\Debug\net5.0\P10_MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\bin\Debug\net5.0\P10_MultiplicationTable.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\bin\Debug\net5.0\ref\P10_MultiplicationTable.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\bin\Debug\net5.0\P10_MultiplicationTable.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\P10_MultiplicationTable.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\ref\P10_MultiplicationTable.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\P10_MultiplicationTable.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_MultiplicationTable\obj\Debug\net5.0\P10_MultiplicationTable.genruntimeconfig.cache

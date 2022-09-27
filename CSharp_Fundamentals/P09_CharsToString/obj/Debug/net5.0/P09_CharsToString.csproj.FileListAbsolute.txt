@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\bin\Debug\net5.0\P09_CharsToString.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\bin\Debug\net5.0\P09_CharsToString.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\bin\Debug\net5.0\P09_CharsToString.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\bin\Debug\net5.0\P09_CharsToString.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\bin\Debug\net5.0\P09_CharsToString.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\bin\Debug\net5.0\ref\P09_CharsToString.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\bin\Debug\net5.0\P09_CharsToString.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\P09_CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\P09_CharsToString.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\P09_CharsToString.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\P09_CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\P09_CharsToString.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\ref\P09_CharsToString.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\P09_CharsToString.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_CharsToString\obj\Debug\net5.0\P09_CharsToString.genruntimeconfig.cache

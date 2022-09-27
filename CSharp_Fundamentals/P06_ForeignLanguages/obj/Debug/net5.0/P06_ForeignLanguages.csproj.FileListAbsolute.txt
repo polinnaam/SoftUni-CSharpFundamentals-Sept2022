@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\bin\Debug\net5.0\P06_ForeignLanguages.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\bin\Debug\net5.0\P06_ForeignLanguages.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\bin\Debug\net5.0\P06_ForeignLanguages.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\bin\Debug\net5.0\P06_ForeignLanguages.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\bin\Debug\net5.0\P06_ForeignLanguages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\bin\Debug\net5.0\ref\P06_ForeignLanguages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\bin\Debug\net5.0\P06_ForeignLanguages.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.csproj.AssemblyReference.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\ref\P06_ForeignLanguages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ForeignLanguages\obj\Debug\net5.0\P06_ForeignLanguages.genruntimeconfig.cache

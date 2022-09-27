@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\bin\Debug\net5.0\P04_BackIn30Minutes.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\bin\Debug\net5.0\P04_BackIn30Minutes.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\bin\Debug\net5.0\P04_BackIn30Minutes.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\bin\Debug\net5.0\P04_BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\bin\Debug\net5.0\P04_BackIn30Minutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\bin\Debug\net5.0\ref\P04_BackIn30Minutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\bin\Debug\net5.0\P04_BackIn30Minutes.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\P04_BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\P04_BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\P04_BackIn30Minutes.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\P04_BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\P04_BackIn30Minutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\ref\P04_BackIn30Minutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\P04_BackIn30Minutes.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_BackIn30Minutes\obj\Debug\net5.0\P04_BackIn30Minutes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\bin\Debug\net5.0\P13_HolidaysBetweenTwoDates.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\bin\Debug\net5.0\P13_HolidaysBetweenTwoDates.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\bin\Debug\net5.0\P13_HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\bin\Debug\net5.0\P13_HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\bin\Debug\net5.0\P13_HolidaysBetweenTwoDates.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\bin\Debug\net5.0\ref\P13_HolidaysBetweenTwoDates.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\bin\Debug\net5.0\P13_HolidaysBetweenTwoDates.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.csproj.AssemblyReference.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\ref\P13_HolidaysBetweenTwoDates.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P13_HolidaysBetweenTwoDates\obj\Debug\net5.0\P13_HolidaysBetweenTwoDates.genruntimeconfig.cache

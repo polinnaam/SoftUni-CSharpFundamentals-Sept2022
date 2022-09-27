@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\bin\Debug\net5.0\P17_PrintAndSum.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\bin\Debug\net5.0\P17_PrintAndSum.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\bin\Debug\net5.0\P17_PrintAndSum.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\bin\Debug\net5.0\P17_PrintAndSum.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\bin\Debug\net5.0\P17_PrintAndSum.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\bin\Debug\net5.0\ref\P17_PrintAndSum.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\bin\Debug\net5.0\P17_PrintAndSum.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\P17_PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\P17_PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\P17_PrintAndSum.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\P17_PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\P17_PrintAndSum.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\ref\P17_PrintAndSum.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\P17_PrintAndSum.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P17_PrintAndSum\obj\Debug\net5.0\P17_PrintAndSum.genruntimeconfig.cache

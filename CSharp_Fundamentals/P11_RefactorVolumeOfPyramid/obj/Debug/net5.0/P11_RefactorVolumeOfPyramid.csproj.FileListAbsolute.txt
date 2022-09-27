@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\bin\Debug\net5.0\P11_RefactorVolumeOfPyramid.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\bin\Debug\net5.0\P11_RefactorVolumeOfPyramid.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\bin\Debug\net5.0\P11_RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\bin\Debug\net5.0\P11_RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\bin\Debug\net5.0\P11_RefactorVolumeOfPyramid.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\bin\Debug\net5.0\ref\P11_RefactorVolumeOfPyramid.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\bin\Debug\net5.0\P11_RefactorVolumeOfPyramid.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\ref\P11_RefactorVolumeOfPyramid.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P11_RefactorVolumeOfPyramid\obj\Debug\net5.0\P11_RefactorVolumeOfPyramid.csproj.AssemblyReference.cache

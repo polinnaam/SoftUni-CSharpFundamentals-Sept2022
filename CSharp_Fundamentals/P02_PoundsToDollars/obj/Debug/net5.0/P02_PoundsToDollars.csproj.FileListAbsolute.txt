@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\bin\Debug\net5.0\P02_PoundsToDollars.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\bin\Debug\net5.0\P02_PoundsToDollars.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\bin\Debug\net5.0\P02_PoundsToDollars.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\bin\Debug\net5.0\P02_PoundsToDollars.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\bin\Debug\net5.0\P02_PoundsToDollars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\bin\Debug\net5.0\ref\P02_PoundsToDollars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\bin\Debug\net5.0\P02_PoundsToDollars.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\P02_PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\P02_PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\P02_PoundsToDollars.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\P02_PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\P02_PoundsToDollars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\ref\P02_PoundsToDollars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\P02_PoundsToDollars.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_PoundsToDollars\obj\Debug\net5.0\P02_PoundsToDollars.genruntimeconfig.cache

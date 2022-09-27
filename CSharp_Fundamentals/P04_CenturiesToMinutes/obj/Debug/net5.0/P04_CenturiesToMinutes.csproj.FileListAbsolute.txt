@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\bin\Debug\net5.0\P04_CenturiesToMinutes.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\bin\Debug\net5.0\P04_CenturiesToMinutes.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\bin\Debug\net5.0\P04_CenturiesToMinutes.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\bin\Debug\net5.0\P04_CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\bin\Debug\net5.0\P04_CenturiesToMinutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\bin\Debug\net5.0\ref\P04_CenturiesToMinutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\bin\Debug\net5.0\P04_CenturiesToMinutes.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\ref\P04_CenturiesToMinutes.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P04_CenturiesToMinutes\obj\Debug\net5.0\P04_CenturiesToMinutes.genruntimeconfig.cache

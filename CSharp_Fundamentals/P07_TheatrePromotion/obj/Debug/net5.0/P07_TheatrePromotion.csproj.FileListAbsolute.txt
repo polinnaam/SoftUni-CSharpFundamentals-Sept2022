@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\bin\Debug\net5.0\P07_TheatrePromotion.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\bin\Debug\net5.0\P07_TheatrePromotion.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\bin\Debug\net5.0\P07_TheatrePromotion.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\bin\Debug\net5.0\P07_TheatrePromotion.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\bin\Debug\net5.0\P07_TheatrePromotion.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\bin\Debug\net5.0\ref\P07_TheatrePromotion.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\bin\Debug\net5.0\P07_TheatrePromotion.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\P07_TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\P07_TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\P07_TheatrePromotion.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\P07_TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\P07_TheatrePromotion.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\ref\P07_TheatrePromotion.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\P07_TheatrePromotion.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P07_TheatrePromotion\obj\Debug\net5.0\P07_TheatrePromotion.genruntimeconfig.cache

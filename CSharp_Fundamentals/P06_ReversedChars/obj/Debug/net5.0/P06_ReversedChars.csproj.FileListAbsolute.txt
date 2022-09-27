@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\bin\Debug\net5.0\P06_ReversedChars.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\bin\Debug\net5.0\P06_ReversedChars.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\bin\Debug\net5.0\P06_ReversedChars.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\bin\Debug\net5.0\P06_ReversedChars.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\bin\Debug\net5.0\P06_ReversedChars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\bin\Debug\net5.0\ref\P06_ReversedChars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\bin\Debug\net5.0\P06_ReversedChars.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\P06_ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\P06_ReversedChars.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\P06_ReversedChars.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\P06_ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\P06_ReversedChars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\ref\P06_ReversedChars.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\P06_ReversedChars.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P06_ReversedChars\obj\Debug\net5.0\P06_ReversedChars.genruntimeconfig.cache

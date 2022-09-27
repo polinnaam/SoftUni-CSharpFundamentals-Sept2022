@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\bin\Debug\net5.0\P09_SumOfOddNumbers.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\bin\Debug\net5.0\P09_SumOfOddNumbers.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\bin\Debug\net5.0\P09_SumOfOddNumbers.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\bin\Debug\net5.0\P09_SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\bin\Debug\net5.0\P09_SumOfOddNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\bin\Debug\net5.0\ref\P09_SumOfOddNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\bin\Debug\net5.0\P09_SumOfOddNumbers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\P09_SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\P09_SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\P09_SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\P09_SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\P09_SumOfOddNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\ref\P09_SumOfOddNumbers.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\P09_SumOfOddNumbers.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P09_SumOfOddNumbers\obj\Debug\net5.0\P09_SumOfOddNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\bin\Debug\net5.0\P02_Passed.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\bin\Debug\net5.0\P02_Passed.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\bin\Debug\net5.0\P02_Passed.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\bin\Debug\net5.0\P02_Passed.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\bin\Debug\net5.0\P02_Passed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\bin\Debug\net5.0\ref\P02_Passed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\bin\Debug\net5.0\P02_Passed.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.csproj.AssemblyReference.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\ref\P02_Passed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P02_Passed\obj\Debug\net5.0\P02_Passed.genruntimeconfig.cache

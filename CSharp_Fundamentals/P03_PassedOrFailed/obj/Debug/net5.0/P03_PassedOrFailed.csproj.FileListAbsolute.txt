@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\bin\Debug\net5.0\P03_PassedOrFailed.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\bin\Debug\net5.0\P03_PassedOrFailed.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\bin\Debug\net5.0\P03_PassedOrFailed.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\bin\Debug\net5.0\P03_PassedOrFailed.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\bin\Debug\net5.0\P03_PassedOrFailed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\bin\Debug\net5.0\ref\P03_PassedOrFailed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\bin\Debug\net5.0\P03_PassedOrFailed.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\ref\P03_PassedOrFailed.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P03_PassedOrFailed\obj\Debug\net5.0\P03_PassedOrFailed.genruntimeconfig.cache

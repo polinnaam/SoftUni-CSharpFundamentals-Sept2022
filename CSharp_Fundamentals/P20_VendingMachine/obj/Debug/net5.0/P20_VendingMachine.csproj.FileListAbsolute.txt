@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\bin\Debug\net5.0\P20_VendingMachine.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\bin\Debug\net5.0\P20_VendingMachine.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\bin\Debug\net5.0\P20_VendingMachine.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\bin\Debug\net5.0\P20_VendingMachine.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\bin\Debug\net5.0\P20_VendingMachine.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\bin\Debug\net5.0\ref\P20_VendingMachine.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\bin\Debug\net5.0\P20_VendingMachine.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\ref\P20_VendingMachine.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P20_VendingMachine\obj\Debug\net5.0\P20_VendingMachine.genruntimeconfig.cache

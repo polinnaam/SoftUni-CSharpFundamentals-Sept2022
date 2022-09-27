@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\bin\Debug\net5.0\P10_LowerOrUpper.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\bin\Debug\net5.0\P10_LowerOrUpper.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\bin\Debug\net5.0\P10_LowerOrUpper.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\bin\Debug\net5.0\P10_LowerOrUpper.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\bin\Debug\net5.0\P10_LowerOrUpper.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\bin\Debug\net5.0\ref\P10_LowerOrUpper.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\bin\Debug\net5.0\P10_LowerOrUpper.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\P10_LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\P10_LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\P10_LowerOrUpper.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\P10_LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\P10_LowerOrUpper.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\ref\P10_LowerOrUpper.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\P10_LowerOrUpper.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P10_LowerOrUpper\obj\Debug\net5.0\P10_LowerOrUpper.genruntimeconfig.cache

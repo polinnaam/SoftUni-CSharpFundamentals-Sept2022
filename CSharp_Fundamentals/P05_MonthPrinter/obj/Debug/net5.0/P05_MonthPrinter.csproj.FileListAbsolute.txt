@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\bin\Debug\net5.0\P05_MonthPrinter.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\bin\Debug\net5.0\P05_MonthPrinter.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\bin\Debug\net5.0\P05_MonthPrinter.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\bin\Debug\net5.0\P05_MonthPrinter.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\bin\Debug\net5.0\P05_MonthPrinter.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\bin\Debug\net5.0\ref\P05_MonthPrinter.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\bin\Debug\net5.0\P05_MonthPrinter.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\P05_MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\P05_MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\P05_MonthPrinter.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\P05_MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\P05_MonthPrinter.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\ref\P05_MonthPrinter.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\P05_MonthPrinter.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P05_MonthPrinter\obj\Debug\net5.0\P05_MonthPrinter.genruntimeconfig.cache

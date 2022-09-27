@@ -1,0 +1,15 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\bin\Debug\net5.0\P08_DivisibleBy3.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\bin\Debug\net5.0\P08_DivisibleBy3.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\bin\Debug\net5.0\P08_DivisibleBy3.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\bin\Debug\net5.0\P08_DivisibleBy3.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\bin\Debug\net5.0\P08_DivisibleBy3.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\bin\Debug\net5.0\ref\P08_DivisibleBy3.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\bin\Debug\net5.0\P08_DivisibleBy3.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\P08_DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\P08_DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\P08_DivisibleBy3.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\P08_DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\P08_DivisibleBy3.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\ref\P08_DivisibleBy3.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\P08_DivisibleBy3.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P08_DivisibleBy3\obj\Debug\net5.0\P08_DivisibleBy3.genruntimeconfig.cache
