@@ -1,0 +1,16 @@
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\bin\Debug\net5.0\P14_Ages.exe
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\bin\Debug\net5.0\P14_Ages.deps.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\bin\Debug\net5.0\P14_Ages.runtimeconfig.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\bin\Debug\net5.0\P14_Ages.runtimeconfig.dev.json
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\bin\Debug\net5.0\P14_Ages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\bin\Debug\net5.0\ref\P14_Ages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\bin\Debug\net5.0\P14_Ages.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.csproj.AssemblyReference.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.AssemblyInfoInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.AssemblyInfo.cs
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.csproj.CoreCompileInputs.cache
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\ref\P14_Ages.dll
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.pdb
+C:\Users\Poli\source\repos\CSharp_Fundamentals\P14_Ages\obj\Debug\net5.0\P14_Ages.genruntimeconfig.cache
